@@ -1,0 +1,3 @@
+CA_CERT=./keys/CA-cert.pem
+CLIENT_CERT=./keys/client-cert.pem
+CLIENT_PKEY=./keys/client-key.pem
